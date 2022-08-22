@@ -1,4 +1,4 @@
-This notebook is about comparing the performance of several **lassification algorithms**.<br>
+This notebook is about comparing the performance of several **classification algorithms**.<br>
 <br>
 **--------------------------------------------------------------------------------------**<br>
 In this file, there are several famous algorithms in the field of classification for data from https://www.kaggle.com/ <br>
